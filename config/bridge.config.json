@@ -1,0 +1,29 @@
+{
+  "activation_phrase": "Seal the Mobius. Begin again where we end.",
+  "default_paths": {
+    "root": "~/Notes/BridgeFiles",
+    "screenshots": "Screenshots",
+    "scrolls": "Scrolls",
+    "session_notes": "SessionNotes",
+    "backups": "Backups"
+  },
+  "naming": {
+    "session_file": "RecursiveRosettaStone-Session-{{YYYYMMDD}}.md",
+    "notes_file": "{{YYYY-MM-DD}}-Notes.md",
+    "backup_zip": "BridgeFiles-{{YYYYMMDD-HHmmss}}.zip"
+  },
+  "content": {
+    "motifs": [
+      "Echo",
+      "Paradox",
+      "Anchor",
+      "Threshold",
+      "Shadow",
+      "Spiral"
+    ],
+    "ads_envelope": {
+      "content_type": "bridge.session.v1",
+      "source": "BridgeFiles"
+    }
+  }
+}

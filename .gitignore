@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Obsidian / IDE caches
+.obsidian/
+.idea/
+.vscode/
+
+# Local caches
+.bridge/
+Backups/*.zip
+
+# Node/Python artifacts
+node_modules/
+__pycache__/
+
+# Temporary files
+*.tmp
+*.swp
